@@ -256,7 +256,7 @@ class _FiltersState extends State<Filters> {
     );
     targets.add(
       TargetFocus(
-        identify: "Target 4",
+        identify: "Target 3",
         keyTarget: keyButton2,
         shape: ShapeLightFocus.Circle,
         contents: [
